@@ -10,3 +10,6 @@ https://polite-bay-011649110.1.azurestaticapps.net/
 
 
 # Video Demo
+
+# Languages used
+CSS ,HTML AND JAVASCRIPT
